@@ -1,0 +1,11 @@
+
+// 顶部状态栏
+.status-bar-padding-top {
+    padding-top: var(--status-bar-height);
+}
+
+// ios 底部安全区
+.bottom-safety-zone {
+    padding-bottom: var(safe-area-inset-bottom);
+}
+
