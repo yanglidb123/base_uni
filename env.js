@@ -2,9 +2,9 @@
  * base_url
  */
 
-const base_url = ''; // 本地
+const base_url = '/'; // 本地
 
-const upload_img_url = '';  // 上传图片的地址
+const upload_img_url = '/';  // 上传图片的地址
 
 let host = '';
 
